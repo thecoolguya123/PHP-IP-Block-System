@@ -1,6 +1,6 @@
 # PHP-IP-Block-System
 
-An PHP and SQL system designed to block IP adresses when entering sensitive files. 
+An PHP and SQL system designed to block IP adresses automatically when obtaining unauthorized access in webpages, etc. 
 
 # Usage
 
